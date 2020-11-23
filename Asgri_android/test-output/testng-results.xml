@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72634" started-at="2020-09-11T14:24:45 IST" finished-at="2020-09-11T14:25:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72634" started-at="2020-09-11T14:24:45 IST" finished-at="2020-09-11T14:25:58 IST">
+      <class name="com.Asgri.android.Asgri_SignUp">
+        <test-method status="PASS" signature="extentreports()[pri:0, instance:com.Asgri.android.Asgri_SignUp@2145433b]" name="extentreports" is-config="true" duration-ms="189" started-at="2020-09-11T14:24:45 IST" finished-at="2020-09-11T14:24:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentreports -->
+        <test-method status="PASS" signature="cap()[pri:0, instance:com.Asgri.android.Asgri_SignUp@2145433b]" name="cap" duration-ms="71928" started-at="2020-09-11T14:24:45 IST" finished-at="2020-09-11T14:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cap -->
+        <test-method status="PASS" signature="endtestcase()[pri:0, instance:com.Asgri.android.Asgri_SignUp@2145433b]" name="endtestcase" is-config="true" duration-ms="466" started-at="2020-09-11T14:25:57 IST" finished-at="2020-09-11T14:25:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtestcase -->
+      </class> <!-- com.Asgri.android.Asgri_SignUp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
